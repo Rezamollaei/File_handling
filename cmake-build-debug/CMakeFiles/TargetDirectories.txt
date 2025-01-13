@@ -1,0 +1,3 @@
+/home/reza/Documents/GitHub/C/C/LAB_ZERO/cmake-build-debug/CMakeFiles/LAB_ZERO.dir
+/home/reza/Documents/GitHub/C/C/LAB_ZERO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/reza/Documents/GitHub/C/C/LAB_ZERO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
